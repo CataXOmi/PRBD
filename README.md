@@ -1,1 +1,1 @@
-# PRBD
+# Database Design Homework
